@@ -1,11 +1,15 @@
+// import React from 'react';
+
 import './App.css'
-import Nav from './components/Navigation/Nav'
 
 function App() {
+ 
 
   return (
     <>
-      <Nav/>
+     <button className="bg-cyan-500 hover:bg-cyan-600">
+      Save changes
+     </button>
     </>
   )
 }
