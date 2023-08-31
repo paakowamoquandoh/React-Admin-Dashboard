@@ -1,10 +1,11 @@
 import './App.css'
+import Nav from './components/Navigation/Nav'
 
 function App() {
 
   return (
     <>
-      <div>Readyyyyyyyyyyyy</div>
+      <Nav/>
     </>
   )
 }
